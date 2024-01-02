@@ -1,0 +1,1 @@
+axios.get("https://catfact.ninja/fact");
